@@ -152,8 +152,8 @@ literal "false"
 \shape smallcaps
 \begin_inset CommandInset href
 LatexCommand href
-name "github.com/thorgalwes"
-target "https://github.com/thorgalwes"
+name "github.com/weslleyskah"
+target "https://github.com/weslleyskah"
 literal "false"
 
 \end_inset
@@ -323,8 +323,8 @@ Link:
 \family typewriter
 \begin_inset CommandInset href
 LatexCommand href
-name "https://github.com/thorgalwes/machine_learning_projects"
-target "https://github.com/thorgalwes/machine_learning_projects"
+name "https://github.com/weslleyskah/machine_learning_projects"
+target "https://github.com/weslleyskah/machine_learning_projects"
 literal "false"
 
 \end_inset
@@ -448,8 +448,8 @@ Link:
 \family typewriter
 \begin_inset CommandInset href
 LatexCommand href
-name "https://github.com/thorgalwes/path_tracer_vulkan"
-target "https://github.com/thorgalwes/path_tracer_vulkan"
+name "https://github.com/weslleyskah/path_tracer_vulkan"
+target "https://github.com/weslleyskah/path_tracer_vulkan"
 literal "false"
 
 \end_inset
@@ -565,15 +565,7 @@ Tech:
 \begin_layout Plain Layout
 python,
  C++,
- matplotlib,
- numpy,
- pandas,
- scipy,
- scikit-learn,
- joblib;
  Git,
- GLSL,
- CMAKE,
  Visual Studio
 \end_layout
 
