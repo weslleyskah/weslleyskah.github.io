@@ -705,15 +705,7 @@ Technology:
 \begin_layout Plain Layout
 python,
  C++,
- matplotlib,
- numpy,
- pandas,
- scipy,
- scikit-learn,
- joblib;
  Git,
- GLSL,
- CMAKE,
  Visual Studio
 \end_layout
 

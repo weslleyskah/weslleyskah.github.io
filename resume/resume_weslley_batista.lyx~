@@ -551,12 +551,6 @@ Tech:
 \begin_layout Plain Layout
 python,
  C++,
- matplotlib,
- numpy,
- pandas,
- scipy,
- scikit-learn,
- joblib,
  Git,
  Visual Studio
 \end_layout
