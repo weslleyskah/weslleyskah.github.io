@@ -48,7 +48,7 @@
 \pdf_backref false
 \pdf_pdfusetitle true
 \papersize a4
-\use_geometry false
+\use_geometry true
 \use_package amsmath 1
 \use_package amssymb 1
 \use_package cancel 1
@@ -75,13 +75,9 @@
 \shortcut idx
 \color #008000
 \end_index
-\leftmargin 0cm
-\topmargin 0.5cm
+\leftmargin 1cm
+\topmargin 1.5cm
 \rightmargin 1cm
-\bottommargin 0cm
-\headheight 0cm
-\headsep 0cm
-\footskip 0cm
 \secnumdepth 3
 \tocdepth 3
 \paragraph_separation indent
@@ -112,7 +108,7 @@
 
 \series bold
 \shape smallcaps
-\size giant
+\size huge
 Weslley Batista
 \end_layout
 
@@ -172,18 +168,13 @@ literal "false"
 \end_layout
 
 \begin_layout Standard
+\align center
 
-\series bold
-\shape smallcaps
-\size largest
-Education
-\end_layout
-
-\begin_layout Standard
+\color gray
 \begin_inset CommandInset line
 LatexCommand rule
-offset "2ex"
-width "100col%"
+offset "0ex"
+width "80col%"
 height "0.5pt"
 
 \end_inset
@@ -192,103 +183,28 @@ height "0.5pt"
 \end_layout
 
 \begin_layout Standard
-\begin_inset Tabular
-<lyxtabular version="3" rows="2" columns="2">
-<features tabularvalignment="middle">
-<column alignment="left" valignment="top">
-<column alignment="left" valignment="top" special="p{0.85\textwidth}">
-<row interlinespace="default">
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\align center
 
 \series bold
-University:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Federal University of Santa Catarina (UFSC) - Computer Engineering
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row interlinespace="default">
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-Period:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2025 - 2030 (estimated)
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
-
-\end_inset
-
-
+\size larger
+Experience
 \end_layout
 
 \begin_layout Standard
-\begin_inset space \space{}
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\series bold
-\shape smallcaps
-\size largest
-Projects
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset line
-LatexCommand rule
-offset "2ex"
-width "100col%"
-height "0.5pt"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
+\align left
 \begin_inset Tabular
 <lyxtabular version="3" rows="3" columns="2">
-<features tabularvalignment="middle">
-<column alignment="left" valignment="top">
-<column alignment="left" valignment="top" special="p{0.6\textwidth}">
-<row interlinespace="default">
-<cell alignment="left" valignment="top" usebox="none">
+<features booktabs="true" tabularvalignment="middle">
+<column alignment="right" valignment="top" width="3cm">
+<column alignment="left" valignment="top" width="15cm">
+<row bottomspace="default">
+<cell alignment="right" valignment="top" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 
-\series bold
-Project:
+\color black
+2026 – Present
 \end_layout
 
 \end_inset
@@ -297,26 +213,64 @@ Project:
 \begin_inset Text
 
 \begin_layout Plain Layout
-Machine Learning Projects
+
+\series bold
+\size large
+Federal University of Santa Catarina (UFSC)
+\series default
+\size default
+ 
+\color black
+– Computer Engineering Bachelor's Degree
 \end_layout
 
 \end_inset
 </cell>
 </row>
-<row interlinespace="default">
-<cell alignment="center" valignment="top" usebox="none">
+<row bottomspace="default">
+<cell alignment="right" valignment="top" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 
-\series bold
-Link:
+\color black
+2025
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Federal University of Pelotas
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row bottomspace="default">
+<cell alignment="center" valignment="top" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\color black
+2024 – 2025
 \end_layout
 
 \end_inset
 </cell>
 <cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
+
+\begin_layout Plain Layout
+Github Projects
+\end_layout
+
+\begin_layout Plain Layout
+Machine Learning
+\end_layout
 
 \begin_layout Plain Layout
 
@@ -332,24 +286,6 @@ literal "false"
 
 \end_layout
 
-\end_inset
-</cell>
-</row>
-<row interlinespace="default">
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-Description:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
 \begin_layout Plain Layout
 Regression task,
  from the book "Hands on Machine Learning",
@@ -362,65 +298,9 @@ Regression task,
 Regression task to predict the protein values of thousands of food items acquired from the U.S Department of Agriculture.
 \end_layout
 
-\end_inset
-</cell>
-</row>
-</lyxtabular>
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset space \space{}
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Tabular
-<lyxtabular version="3" rows="3" columns="2">
-<features tabularvalignment="middle">
-<column alignment="left" valignment="top">
-<column alignment="left" valignment="top" special="p{0.6\textwidth}">
-<row interlinespace="default">
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-Project:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
 \begin_layout Plain Layout
 Path Tracer
 \end_layout
-
-\end_inset
-</cell>
-</row>
-<row interlinespace="default">
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-Link:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
 
 \begin_layout Plain Layout
 
@@ -436,26 +316,8 @@ literal "false"
 
 \end_layout
 
-\end_inset
-</cell>
-</row>
-<row interlinespace="default">
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
 \begin_layout Plain Layout
-
-\series bold
-Description:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-A small implementation of a path tracer from the project VK Mini Path Tracer of NVIDIA's public repository,
+A small implementation of a path tracer from the tutorial project VK Mini Path Tracer of NVIDIA's public repository,
  using C++,
  GLSL,
  Vulkan and NVIDIA's graphics helper libraries.
@@ -472,141 +334,31 @@ A small implementation of a path tracer from the project VK Mini Path Tracer of 
 \end_layout
 
 \begin_layout Standard
-\begin_inset space \space{}
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
+\align center
 
 \series bold
-\shape smallcaps
-\size largest
-Skills
+\size larger
+Qualifications
 \end_layout
 
-\begin_layout Standard
-\begin_inset CommandInset line
-LatexCommand rule
-offset "2ex"
-width "100col%"
-height "0.5pt"
+\begin_layout Itemize
 
-\end_inset
-
-
+\size small
+English,
+ Portuguese.
 \end_layout
 
-\begin_layout Standard
-\begin_inset Tabular
-<lyxtabular version="3" rows="2" columns="2">
-<features tabularvalignment="middle">
-<column alignment="left" valignment="top">
-<column alignment="left" valignment="top" special="p{0.6\textwidth}">
-<row interlinespace="default">
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
+\begin_layout Itemize
 
-\begin_layout Plain Layout
-
-\series bold
-Area of Interest:
+\size small
+Proficiency with Python and C++.
 \end_layout
 
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
+\begin_layout Itemize
 
-\begin_layout Plain Layout
-Machine Learning
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row interlinespace="default">
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-Tech:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-python,
- C++,
- Git,
- Visual Studio
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset space \space{}
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\series bold
-\shape smallcaps
-\size largest
-Languages
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset line
-LatexCommand rule
-offset "2ex"
-width "100col%"
-height "0.5pt"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Tabular
-<lyxtabular version="3" rows="1" columns="1">
-<features tabularvalignment="middle">
-<column alignment="left" valignment="top" special="p{0.85\textwidth}">
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Portuguese (Native),
- English (Proficient).
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
-
-\end_inset
-
-
+\size small
+Brazil Citizen.
+ Willing to relocate.
 \end_layout
 
 \end_body
