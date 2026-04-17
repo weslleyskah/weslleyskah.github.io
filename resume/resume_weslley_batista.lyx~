@@ -125,6 +125,7 @@ Weslley Batista
 
 \begin_layout Plain Layout
 
+\family typewriter
 \shape smallcaps
 \begin_inset CommandInset href
 LatexCommand href
@@ -145,6 +146,7 @@ literal "false"
 
 \begin_layout Plain Layout
 
+\family typewriter
 \shape smallcaps
 \begin_inset CommandInset href
 LatexCommand href
@@ -249,8 +251,6 @@ Federal University of Pelotas
 
 \begin_layout Plain Layout
 
-\color black
-2024 – 2025
 \end_layout
 
 \end_inset
@@ -263,12 +263,26 @@ Github Projects
 \end_layout
 
 \begin_layout Plain Layout
-Machine Learning
+Matrix gui:
+
+\family typewriter
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "https://github.com/weslleyskah/matrix_gui"
+target "https://github.com/weslleyskah/matrix_gui"
+literal "false"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Plain Layout
+Machine Learning:
 
 \family typewriter
+ 
 \begin_inset CommandInset href
 LatexCommand href
 name "https://github.com/weslleyskah/machine_learning_projects"
@@ -281,20 +295,10 @@ literal "false"
 \end_layout
 
 \begin_layout Plain Layout
-Regression task using scikit-learn,
- from the book "Hands on Machine Learning",
- to predict the median house price values of thousands of districts from the state of California,
- USA 1990.
- And another to make a prediction column the protein values of thousands of food items acquired from the U.S Department of Agriculture.
-\end_layout
-
-\begin_layout Plain Layout
-Path Tracer
-\end_layout
-
-\begin_layout Plain Layout
+Path Tracer:
 
 \family typewriter
+ 
 \begin_inset CommandInset href
 LatexCommand href
 name "https://github.com/weslleyskah/path_tracer_vulkan"
@@ -304,13 +308,6 @@ literal "false"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Plain Layout
-A small implementation of a path tracer from the tutorial project of NVIDIA's public repository,
- using C++,
- GLSL,
- Vulkan and NVIDIA's graphics helper libraries.
 \end_layout
 
 \end_inset
