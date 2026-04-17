@@ -213,15 +213,9 @@ Experience
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\series bold
-\size large
 Federal University of Santa Catarina (UFSC)
-\series default
-\size default
- 
 \color black
-– Computer Engineering Bachelor's Degree
+ – Computer Engineering
 \end_layout
 
 \end_inset
@@ -287,15 +281,11 @@ literal "false"
 \end_layout
 
 \begin_layout Plain Layout
-Regression task,
+Regression task using scikit-learn,
  from the book "Hands on Machine Learning",
  to predict the median house price values of thousands of districts from the state of California,
  USA 1990.
- 
-\end_layout
-
-\begin_layout Plain Layout
-Regression task to predict the protein values of thousands of food items acquired from the U.S Department of Agriculture.
+ And another to make a prediction column the protein values of thousands of food items acquired from the U.S Department of Agriculture.
 \end_layout
 
 \begin_layout Plain Layout
@@ -317,7 +307,7 @@ literal "false"
 \end_layout
 
 \begin_layout Plain Layout
-A small implementation of a path tracer from the tutorial project VK Mini Path Tracer of NVIDIA's public repository,
+A small implementation of a path tracer from the tutorial project of NVIDIA's public repository,
  using C++,
  GLSL,
  Vulkan and NVIDIA's graphics helper libraries.
