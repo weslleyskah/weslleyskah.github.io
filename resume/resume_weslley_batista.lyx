@@ -193,12 +193,12 @@ Experience
 \begin_layout Standard
 \align left
 \begin_inset Tabular
-<lyxtabular version="3" rows="3" columns="2">
+<lyxtabular version="3" rows="2" columns="2">
 <features booktabs="true" tabularvalignment="middle">
 <column alignment="right" valignment="top" width="3cm">
 <column alignment="left" valignment="top" width="15cm">
 <row bottomspace="default">
-<cell alignment="right" valignment="top" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -209,7 +209,7 @@ Experience
 
 \end_inset
 </cell>
-<cell alignment="left" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -238,74 +238,6 @@ Federal University of Santa Catarina (UFSC)
 
 \begin_layout Plain Layout
 Federal University of Pelotas
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row bottomspace="default">
-<cell alignment="center" valignment="top" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Github Projects
-\end_layout
-
-\begin_layout Plain Layout
-Matrix gui:
-
-\family typewriter
- 
-\begin_inset CommandInset href
-LatexCommand href
-name "https://github.com/weslleyskah/matrix_gui"
-target "https://github.com/weslleyskah/matrix_gui"
-literal "false"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-Machine Learning:
-
-\family typewriter
- 
-\begin_inset CommandInset href
-LatexCommand href
-name "https://github.com/weslleyskah/machine_learning_projects"
-target "https://github.com/weslleyskah/machine_learning_projects"
-literal "false"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-Path Tracer:
-
-\family typewriter
- 
-\begin_inset CommandInset href
-LatexCommand href
-name "https://github.com/weslleyskah/path_tracer_vulkan"
-target "https://github.com/weslleyskah/path_tracer_vulkan"
-literal "false"
-
-\end_inset
-
-
 \end_layout
 
 \end_inset
