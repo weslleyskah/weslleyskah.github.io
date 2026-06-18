@@ -273,8 +273,7 @@ VISIA UFSC – Laboratory of Computer Vision,
 \uwave off
 \noun off
 \color none
-- Developed a fire detection model using YOLO,
- trained on Google Colab
+- Fine-tuned a fire detection model using YOLO
 \end_layout
 
 \begin_layout Plain Layout

@@ -366,36 +366,12 @@ Education
 \uwave off
 \noun off
 \color none
-B.Sc.
- in Computer Engineering 
-\family default
-\series default
-\shape default
-\size default
-\emph default
-\nospellcheck default
-\bar default
-\strikeout default
-\xout default
-\uuline default
-\uwave default
-\noun default
-\color black
-–
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\nospellcheck off
-\bar no
-\strikeout off
-\xout off
-\uuline off
-\uwave off
-\noun off
-\color none
- Federal University of Santa Catarina (UFSC)
+Federal University of Santa Catarina (UFSC)
+\end_layout
+
+\begin_layout Plain Layout
+Computer Engineering,
+ B.Sc.
 \end_layout
 
 \end_inset
