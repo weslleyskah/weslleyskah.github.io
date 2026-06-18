@@ -75,9 +75,10 @@
 \shortcut idx
 \color #008000
 \end_index
-\leftmargin 1cm
-\topmargin 1.5cm
-\rightmargin 1cm
+\leftmargin 2cm
+\topmargin 2cm
+\rightmargin 2cm
+\bottommargin 2cm
 \secnumdepth 3
 \tocdepth 3
 \paragraph_separation indent
@@ -193,51 +194,121 @@ Experience
 \begin_layout Standard
 \align left
 \begin_inset Tabular
-<lyxtabular version="3" rows="2" columns="2">
+<lyxtabular version="3" rows="1" columns="2">
 <features booktabs="true" tabularvalignment="middle">
-<column alignment="right" valignment="top" width="3cm">
-<column alignment="left" valignment="top" width="15cm">
+<column alignment="right" valignment="top" width="3.5cm">
+<column alignment="left" valignment="top" width="13.5cm">
 <row bottomspace="default">
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\color black
+May 2026 – Present
+\end_layout
+
+\end_inset
+</cell>
 <cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 
-\color black
-2026 – Present
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+Research Intern
 \end_layout
 
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
 \begin_layout Plain Layout
-Federal University of Santa Catarina (UFSC)
-\color black
- – Computer Engineering
+\begin_inset VSpace defskip
+\end_inset
+
+
 \end_layout
 
-\end_inset
-</cell>
-</row>
-<row bottomspace="default">
-<cell alignment="right" valignment="top" rightline="true" usebox="none">
-\begin_inset Text
-
 \begin_layout Plain Layout
 
-\color black
-2025
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+VISIA UFSC – Laboratory of Computer Vision,
+ Signal and Artificial Intelligence,
+ Federal University of Santa Catarina
 \end_layout
 
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+- Developed a fire detection model using YOLO,
+ trained on Google Colab
+\end_layout
 
 \begin_layout Plain Layout
-Federal University of Pelotas
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+- Curated and annotated datasets using CVAT and Roboflow
+\end_layout
+
+\begin_layout Plain Layout
+
+\family typewriter
+\series bold
+\shape smallcaps
+\begin_inset CommandInset href
+LatexCommand href
+name "github.com/weslleyskah/computer_vision_ufsc"
+target "github.com/weslleyskah/computer_vision_ufsc"
+literal "false"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -255,27 +326,62 @@ Federal University of Pelotas
 
 \series bold
 \size larger
-Qualifications
+Education
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Standard
+\align left
+\begin_inset Tabular
+<lyxtabular version="3" rows="1" columns="2">
+<features booktabs="true" tabularvalignment="middle">
+<column alignment="right" valignment="top" width="3.5cm">
+<column alignment="left" valignment="top" width="13.5cm">
+<row bottomspace="default">
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
 
-\size small
-English,
- Portuguese.
+\begin_layout Plain Layout
+
+\color black
+2026 – Present
 \end_layout
 
-\begin_layout Itemize
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
 
-\size small
-Proficiency with Python and C++.
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+Federal University of Santa Catarina (UFSC)
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Plain Layout
+Computer Engineering,
+ B.Sc.
+\end_layout
 
-\size small
-Brazil Citizen.
- Willing to relocate.
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
 \end_layout
 
 \end_body
