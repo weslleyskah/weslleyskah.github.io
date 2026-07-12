@@ -228,7 +228,7 @@ May 2026 – Present
 \uwave off
 \noun off
 \color none
-Research Intern
+Researcher
 \end_layout
 
 \begin_layout Plain Layout
@@ -259,21 +259,7 @@ VISIA UFSC – Laboratory of Computer Vision,
 \end_layout
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\nospellcheck off
-\bar no
-\strikeout off
-\xout off
-\uuline off
-\uwave off
-\noun off
-\color none
-- Fine-tuned a fire detection model using YOLO
+Contributed to improving and refining a computer vision model for fire and smoke detection on an aerial drone.
 \end_layout
 
 \begin_layout Plain Layout
@@ -291,7 +277,11 @@ VISIA UFSC – Laboratory of Computer Vision,
 \uwave off
 \noun off
 \color none
-- Curated and annotated datasets using CVAT and Roboflow
+Curated and annotated custom image datasets using CVAT and Roboflow to improve model accuracy.
+\end_layout
+
+\begin_layout Plain Layout
+Delivered technical presentations and research updates to an affiliated drone R&D company (Global Drones).
 \end_layout
 
 \begin_layout Plain Layout
@@ -370,7 +360,7 @@ Federal University of Santa Catarina (UFSC)
 
 \begin_layout Plain Layout
 Computer Engineering,
- B.Sc.
+ B.Eng.
 \end_layout
 
 \end_inset
